@@ -1,0 +1,124 @@
+header, footer {
+    background-color: gray;
+    padding: 0%;
+}
+header {
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 10vh;
+    position: sticky;
+}
+
+.logo {
+    color: rgb(0, 0, 0);
+    margin-left: 1vw;
+    height: 1em;
+    font-size: 4vh;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+a {
+    margin-inline: 0.5em;
+    font-size: 2vh;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    height: 100dvh;
+    position: relative;
+    justify-content: flex-start;
+}
+footer {
+    display: flex;
+    width: 100vw;
+    height: 5vh;
+    position: fixed;
+    bottom:0;
+    left:0;
+    right:0;
+}
+img {
+    height: fit-content;
+    width: 90vw;
+
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 77vh;
+    position: relative;
+}
+.homepagetitle {
+    text-align: left;
+    width: 90vw;
+    margin: 0;
+    margin-bottom: 3vh;
+    font-size: 3em;
+}
+.homepageparagraph {
+    text-align: left;
+    margin: 0;
+}
+button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: gray;
+    border: none;
+    border-radius: 15px;
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+}
+  
+button:hover {
+    background-color: #4e4e4e
+}
+
+.hometitleandimg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+
+}
+.spacer {
+    height: 0;
+    visibility: hidden; 
+}
+@media screen and (max-height: 400px) {
+    .spacer{
+        height: 1vh;
+        margin-bottom: 7vh;
+    }
+}
+@media screen and (min-width: 800px) {
+    .hometitleandimg{
+        flex-direction: row;
+        width: 100vw;
+        justify-content: space-around;
+        align-content: space-between;
+    }
+    img {
+        width: 30vw;
+    }
+    .homepagetitle{
+        width: 30vw;
+        font-size: 5em;
+    }
+}
+
