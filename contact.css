@@ -1,0 +1,13 @@
+.contactlogo {
+    height: auto;
+    width: 3em;
+}
+.ContactLink {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    width: 80vw;
+    margin-bottom: 1vh;
+}

@@ -1,0 +1,44 @@
+.blogpost {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 90vw;
+    margin-bottom: 6vh;
+    align-content: center;
+}
+.blogpostcard {
+    height: 10em;
+    width: 8em;
+    background-color: rgb(13, 0, 255);
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    filter: drop-shadow(5px 5px rgb(0, 0, 105));
+}
+.blogposttext {
+    width: 50vw;
+    height: 10em;
+    margin: 0;
+    overflow: hidden;
+}
+.blogimg {
+    margin-top: 0.5em;
+    width: 7em;
+    height: auto;
+}
+a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+.blogpostcard:hover {
+    background-color: aqua;
+}
+@media screen and (min-width: 800px) {
+    .blogpost {
+        width: 80vw;
+    }
+}

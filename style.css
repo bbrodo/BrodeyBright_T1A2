@@ -8,14 +8,14 @@ header {
     align-content: center;
     flex-direction: row;
     align-items: center;
-    justify-content: space-around;
-    width: 100vw;
+    justify-content: space-between;
+    width: 100dvw;
     height: 10vh;
     position: sticky;
 }
 footer {
     display: flex;
-    width: 100vw;
+    width: 100dvw;
     height: 5vh;
     position: fixed;
     bottom:0;
@@ -25,17 +25,20 @@ footer {
 
 .logo {
     color: rgb(0, 0, 0);
-    margin-left: 1vw;
+    margin: 0;
+    margin-left: 2vw;
     height: 1em;
     font-size: 4vh;
 }
 nav {
     display: flex;
     justify-content: space-around;
+    width: 70vw;
+    margin-right: 5vw;
 }
 a {
     margin-inline: 0.5em;
-    font-size: 2vh;
+    font-size: 1em;
 }
 /* Main Content Styliing */
 body {
@@ -45,10 +48,13 @@ body {
     height: 100dvh;
     position: relative;
     justify-content: flex-start;
+    font-size: 1em;
+    overflow-x: hidden;
 }
 img {
     height: fit-content;
     width: 90vw;
+    border-radius: 10%;
 
 }
 main {
@@ -100,7 +106,6 @@ button:hover {
     align-items: center;
     margin-top: 5vh;
     margin-bottom: 2vh;
-
 }
 /* spacer so footer doesnt cover content on page */
 .spacer {

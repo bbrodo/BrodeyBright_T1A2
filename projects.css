@@ -1,0 +1,33 @@
+.project {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 6vh;
+    align-content: center;
+    width: 90vw;
+}
+.projectcard {
+    height: 10em;
+    width: 80vw;
+    background-color: blue;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    filter: drop-shadow(5px 5px rgb(0, 0, 99));
+}
+.projectcard:hover {
+    background-color: aqua;
+}
+a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
