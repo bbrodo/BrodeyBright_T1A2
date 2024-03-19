@@ -21,7 +21,14 @@ These skills exemplify the proficiency in web development, poised to impress pot
 
 The primary target audience for the portfolio website comprises potential clients from small businesses aiming to develop or enhance their websites or web applications. Additionally, the site caters significantly to prospective employers seeking junior web developers to join their teams or companies.
 
-## Functionality & Feature
+## Tech Stack
+- HTML
+- CSS
+- Github
+- Netlify
+- Figma
+
+## Functionality & Features
 
 The website's functionality and features are meticulously integrated to ensure a seamless user experience, blending both design and technical elements harmoniously.
 
