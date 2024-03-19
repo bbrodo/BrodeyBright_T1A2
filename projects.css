@@ -10,24 +10,25 @@
 .projectcard {
     height: 10em;
     width: 80vw;
-    background-color: blue;
+    background-color: var(--lightblue);
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
     align-content: center;
-    filter: drop-shadow(5px 5px rgb(0, 0, 99));
+    filter: drop-shadow(5px 5px var(--blue));
 }
 .projectcard:hover {
-    background-color: aqua;
+    background-color: var(--red);
 }
-a:link {
-    color: rgb(255, 255, 255);
+.projlink:link {
+    color: var(--white);
     background-color: transparent;
     text-decoration: none;
+    height: auto;
 }
-a:visited {
-    color: rgb(255, 255, 255);
+.projlink:visited {
+    color: var(--white);
     background-color: transparent;
     text-decoration: none;
 }

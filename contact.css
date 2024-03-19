@@ -11,3 +11,7 @@
     width: 80vw;
     margin-bottom: 1vh;
 }
+.darkblue {
+    color: var(--darkblue);
+    text-decoration: underline;
+}
