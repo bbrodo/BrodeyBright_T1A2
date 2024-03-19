@@ -47,6 +47,7 @@ footer {
     font-weight: 400;
     font-style: normal;
     transition: all 0.5s;
+    text-shadow: 0 0 5px var(--white)
 }
 
 nav {
@@ -72,14 +73,17 @@ a {
     text-decoration: none;
     transition: all 0.5s;
     height: 2em;
+    text-shadow: 0 0 10px var(--white)
 }
 a:hover {
     color: var(--red);
     transform: translateY(-5px);
+    text-shadow: 0 0 10px var(--red)
 }
 .logo:hover {
     color: var(--red);
     transform: translateY(-5px);
+    text-shadow: 0 0 5px var(--red)
 }
 .logolink {
     height: auto;
@@ -101,6 +105,7 @@ img {
     height: fit-content;
     width: 90vw;
     border-radius: 10%;
+    box-shadow: 0 0 15px var(--darkblue);
 
 }
 main {
@@ -118,10 +123,11 @@ main {
     margin: 0;
     margin-bottom: 1vh;
     font-size: 3em;
-    color: var(--darkblue);
+    color: var(--blue);
     font-family: "Stylish", serif;
     font-weight: 400;
     font-style: normal;
+    text-shadow: 0 0 15px var(--darkblue);
 }
 /* Article Styling */
 .homepageparagraph {

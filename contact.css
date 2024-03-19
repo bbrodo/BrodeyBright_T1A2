@@ -1,7 +1,12 @@
 .contactlogo {
     height: auto;
     width: 3em;
+    transition: all 0.5s;
 }
+.contactlogo:hover {
+    box-shadow: 0px 0px 15px var(--red);
+}
+
 .ContactLink {
     display: flex;
     flex-direction: row;
@@ -9,7 +14,7 @@
     align-items: center;
     justify-content: flex-start;
     width: 80vw;
-    margin-bottom: 1vh;
+    margin-bottom: 4vh;
 }
 .darkblue {
     color: var(--darkblue);
