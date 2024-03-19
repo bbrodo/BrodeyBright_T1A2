@@ -1,4 +1,4 @@
-# T1A2 Portfolio - Jordan Benjamin
+# T1A2 Portfolio - Brodey Bright
 
 ## Overview
 
