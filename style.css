@@ -175,10 +175,11 @@ button:hover {
     visibility: hidden; 
 }
 /* responsive design to make the page layout change on wider screens */
-@media screen and (max-height: 400px) {
+@media screen and (min-height: 400px) {
     .spacer{
         height: 20vh;
         margin-top: 10vh;
+        margin-bottom: 10vh;
     }
 }
 @media screen and (min-width: 800px) {
