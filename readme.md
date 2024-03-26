@@ -60,5 +60,15 @@ The primary target audience for the portfolio website comprises potential client
 
 - The website employs animated cards to showcase projects and blog posts, enhancing user engagement when interacting with each element. Upon hovering over a card, it animates to provide feedback and captivate the user's attention. Additionally, each card transitions to a contrasting red tone upon interaction, further stimulating user engagement and highlighting the selected item.
 
+## Screenshots
+
+![Home](/docs/Screenshots/home.jpg)
+![About](/docs/Screenshots/about.jpg)
+![Projects](/docs/Screenshots/projects.jpg)
+![Experience](/docs/Screenshots/experience.jpg)
+![Writing](/docs/Screenshots/writing.jpg)
+![Writing Post](/docs/Screenshots/writing-post.jpg)
+![Contact](/docs/Screenshots/contact.jpg)
+
 
 
