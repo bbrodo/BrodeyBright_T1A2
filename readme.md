@@ -36,6 +36,10 @@ The primary target audience for the portfolio website comprises potential client
 
 - The website design prioritizes simplicity, with a particular emphasis on the strategic use of colors as its focal point.
 
+### Images
+
+- Each page of the website prominently features a large image at the top, strategically designed to capture the user's attention upon arrival. This captivating visual element serves as a focal point, drawing visitors into the content and setting the tone for their browsing experience.
+
 #### Layout
 
 - The website boasts a straightforward layout, with a key emphasis on the placement of text. Anchoring text to the left-hand side of the screen aligns with the natural reading pattern of most individuals, facilitating a seamless and effortless reading experience throughout the website.
