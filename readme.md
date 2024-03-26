@@ -62,11 +62,11 @@ The primary target audience for the portfolio website comprises potential client
 
 ## Screenshots
 
-![Home](/docs/Screenshots/home.png)
-![About](/docs/Screenshots/about.png)
-![Projects](/docs/Screenshots/projects.png)
-![Writing](/docs/Screenshots/blogs.png)
-![Contact](/docs/Screenshots/contact.png)
+![Home](/docs/home.png)
+![About](/docs/about.png)
+![Projects](/docs/projects.png)
+![Writing](/docs/blogs.png)
+![Contact](/docs/contact.png)
 
 
 
