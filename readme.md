@@ -68,5 +68,11 @@ The primary target audience for the portfolio website comprises potential client
 ![Writing](/docs/blogs.png)
 ![Contact](/docs/contact.png)
 
+## Wireframes
+
+![Mobile](/docs/mobilewireframes.png)
+![Desktop](/docs/desktopwireframes.png)
+
+
 
 
