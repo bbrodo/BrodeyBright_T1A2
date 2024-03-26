@@ -70,8 +70,8 @@ The primary target audience for the portfolio website comprises potential client
 
 ## Wireframes
 
-![Mobile](/docs/mobilewireframes.png)
-![Desktop](/docs/desktopwireframes.png)
+![Mobile](/docs/mobilewireframe.png)
+![Desktop](/docs/desktopwireframe.png)
 
 
 
