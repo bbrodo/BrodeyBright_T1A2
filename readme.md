@@ -73,6 +73,11 @@ The primary target audience for the portfolio website comprises potential client
 ![Mobile](/docs/mobilewireframe.png)
 ![Desktop](/docs/desktopwireframe.png)
 
+## Sitemap
+![Sitemap](/docs/Sitemap.png)
+
+
+
 
 
 
