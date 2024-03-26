@@ -62,7 +62,7 @@ The primary target audience for the portfolio website comprises potential client
 
 ## Screenshots
 
-![Home](/docs/Screenshots/home.jpg)
+![Home](/docs/Screenshots/Screenshot_2024-03-26_125047.png)
 ![About](/docs/Screenshots/about.jpg)
 ![Projects](/docs/Screenshots/projects.jpg)
 ![Experience](/docs/Screenshots/experience.jpg)
