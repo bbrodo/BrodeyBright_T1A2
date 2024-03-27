@@ -8,6 +8,8 @@ Welcome to my portfolio website.
 
 - [Github Repository](https://github.com/bbrodo/Portfolio-Website)
 
+- [Presentation Video](https://youtu.be/zqmGjHQvYAk)
+
 ## Purpose
 
 The portfolio website has been meticulously crafted to exhibit a diverse range of skills pertinent to web development and IT professionalism. These include:
